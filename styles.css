@@ -1,0 +1,56 @@
+body{
+    background-color: #15a995;
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+    display: block;
+}
+
+
+.fondorojo {
+    background-color: red;
+}
+.fondoazul {
+    background-color: rgba(0, 255, 255, 0.873);
+}
+
+.fondovioleta{
+    background-color: #8a2be2;
+
+}
+.bordegris1 {
+    border: 10px outset #566573;
+}
+.letrablanca {
+    color: rgb(255, 255, 255);
+}
+.colorletra {
+    color: #100f0f;
+    font-size: 2em;
+
+}
+.tamañoletra{
+    font-size: 24px;
+}
+.tamañorecuadro {
+    width: 100%;
+    height: 10%;
+}
+.bordegris2 {
+    border: 10px outset #566573;
+}
+.fondoamarillo {
+    background-color: #ffff00;
+}
+
+.fondoblanco {
+    background-color: #ffffff;
+}
+.fondoverdeclaro {
+    background-color: #00ff00;
+}
+.bordenegro {
+    border: 1px solid black;
+}
